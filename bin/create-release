@@ -4,4 +4,4 @@ yarn clean
 yarn
 yarn build
 
-git ci -m 'Built minified release'
+git commit -m 'Built minified release'
